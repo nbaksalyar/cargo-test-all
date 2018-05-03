@@ -1,0 +1,10 @@
+[package]
+name = "abc"
+version = "0.1.0"
+authors = ["Nikita Baksalyar <nikita.baksalyar@gmail.com>"]
+
+[dependencies]
+
+[features]
+def = []
+ghi = []
